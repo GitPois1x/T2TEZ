@@ -1,0 +1,3 @@
+author = Pois1x, BabyblueSheep, the42ndcorgi
+version = 0.1
+displayName = Tremor 2: The Electric Zootaloo
